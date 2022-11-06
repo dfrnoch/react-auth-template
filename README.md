@@ -2,9 +2,7 @@
 
 ## Base template with authentication handling and routing
 
-This is from our Hackathon project, so I decided to create this template from it.
-
-**Check it out:**
+This template was made from a 24-hour hackathon event, so make sure to **Check it out:**
 
 Frontend: https://github.com/ViceVerse-cz/hackathon-frontend
 
