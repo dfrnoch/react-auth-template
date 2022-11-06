@@ -1,6 +1,6 @@
 # Vite + React + Typescript + Windi
 
-## Base template with autentication handling and routing
+## Base template with authentication handling and routing
 
 This is from our Hackathon project, so I decided to create this template from it.
 
